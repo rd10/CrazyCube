@@ -354,9 +354,9 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/Scenes/Scripts/Dropper.cs"
 "Assets/Scenes/Scripts/Mover.cs"
-"Assets/Scenes/Scripts/NewBehaviourScript.cs"
 "Assets/Scenes/Scripts/ObjectHit.cs"
 "Assets/Scenes/Scripts/Scorer.cs"
+"Assets/Scenes/Scripts/Spinner.cs"
 -langversion:9.0
 
 /deterministic

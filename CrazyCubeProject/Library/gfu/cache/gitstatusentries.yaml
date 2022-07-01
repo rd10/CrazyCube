@@ -13,21 +13,363 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2022-06-30T18:55:36.779-07:00
-  initializedAtString: 2022-06-29T15:00:05.605-07:00
+  lastUpdatedAtString: 2022-07-01T16:33:59.201-07:00
+  initializedAtString: 2022-07-01T08:46:09.131-07:00
   entries:
-  - path: .gitignore.txt
-    fullPath: C:\Unity\Unity 3D\CrazyCube\.gitignore.txt
-    projectPath: ..\.gitignore.txt
+  - path: CrazyCubeProject\Assets\Scenes\SampleScene.unity
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Assets\Scenes\SampleScene.unity
+    projectPath: Assets\Scenes\SampleScene.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: CrazyCubeProject\Assets\Scenes\Scripts\Dropper.cs
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Assets\Scenes\Scripts\Dropper.cs
+    projectPath: Assets\Scenes\Scripts\Dropper.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: CrazyCubeProject\Assets\Scenes\Scripts\NewBehaviourScript.cs
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Assets\Scenes\Scripts\NewBehaviourScript.cs
+    projectPath: Assets\Scenes\Scripts\NewBehaviourScript.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CrazyCubeProject\Assets\Scenes\Scripts\NewBehaviourScript.cs.meta
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Assets\Scenes\Scripts\NewBehaviourScript.cs.meta
+    projectPath: Assets\Scenes\Scripts\NewBehaviourScript.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CrazyCubeProject\Assets\Scenes\Scripts\ObjectHit.cs
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Assets\Scenes\Scripts\ObjectHit.cs
+    projectPath: Assets\Scenes\Scripts\ObjectHit.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: CrazyCubeProject\Assets\Scenes\Scripts\Scorer.cs
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Assets\Scenes\Scripts\Scorer.cs
+    projectPath: Assets\Scenes\Scripts\Scorer.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: CrazyCubeProject\Assets\Scenes\Scripts\Spinner.cs
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Assets\Scenes\Scripts\Spinner.cs
+    projectPath: Assets\Scenes\Scripts\Spinner.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CrazyCubeProject\Assets\Scenes\Scripts\Spinner.cs.meta
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Assets\Scenes\Scripts\Spinner.cs.meta
+    projectPath: Assets\Scenes\Scripts\Spinner.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CrazyCubeProject\Assets\Spinner Material.mat
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Assets\Spinner Material.mat
+    projectPath: Assets\Spinner Material.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CrazyCubeProject\Assets\Spinner Material.mat.meta
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Assets\Spinner Material.mat.meta
+    projectPath: Assets\Spinner Material.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: CrazyCubeProject\Library\ArtifactDB
     fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Library\ArtifactDB
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: CrazyCubeProject\Library\Artifacts\06\06421566488886adb9f74c81a7deafd7
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Library\Artifacts\06\06421566488886adb9f74c81a7deafd7
+    projectPath: Library\Artifacts\06\06421566488886adb9f74c81a7deafd7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CrazyCubeProject\Library\Artifacts\0e\0e051862e244799ee32df005c4e30e7a
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Library\Artifacts\0e\0e051862e244799ee32df005c4e30e7a
+    projectPath: Library\Artifacts\0e\0e051862e244799ee32df005c4e30e7a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CrazyCubeProject\Library\Artifacts\0f\0f2eb3bbe3a373e66ac7690d32763c02
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Library\Artifacts\0f\0f2eb3bbe3a373e66ac7690d32763c02
+    projectPath: Library\Artifacts\0f\0f2eb3bbe3a373e66ac7690d32763c02
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CrazyCubeProject\Library\Artifacts\20\2059cf21e014d14f4b3aa4d50aec6866
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Library\Artifacts\20\2059cf21e014d14f4b3aa4d50aec6866
+    projectPath: Library\Artifacts\20\2059cf21e014d14f4b3aa4d50aec6866
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CrazyCubeProject\Library\Artifacts\22\2280a5a271dd332bc1e83ed8179dfbb5
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Library\Artifacts\22\2280a5a271dd332bc1e83ed8179dfbb5
+    projectPath: Library\Artifacts\22\2280a5a271dd332bc1e83ed8179dfbb5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CrazyCubeProject\Library\Artifacts\22\22dbc3330cfbba6e50d71ddff21bfb1a
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Library\Artifacts\22\22dbc3330cfbba6e50d71ddff21bfb1a
+    projectPath: Library\Artifacts\22\22dbc3330cfbba6e50d71ddff21bfb1a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CrazyCubeProject\Library\Artifacts\27\277a9d0c5837218bdc89fdbc6902571e
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Library\Artifacts\27\277a9d0c5837218bdc89fdbc6902571e
+    projectPath: Library\Artifacts\27\277a9d0c5837218bdc89fdbc6902571e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CrazyCubeProject\Library\Artifacts\2a\2a79fbd7d3821e9a3a3c560b7d39d0bd
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Library\Artifacts\2a\2a79fbd7d3821e9a3a3c560b7d39d0bd
+    projectPath: Library\Artifacts\2a\2a79fbd7d3821e9a3a3c560b7d39d0bd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CrazyCubeProject\Library\Artifacts\35\3536d1549152e938300a115e11568319
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Library\Artifacts\35\3536d1549152e938300a115e11568319
+    projectPath: Library\Artifacts\35\3536d1549152e938300a115e11568319
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CrazyCubeProject\Library\Artifacts\35\358bf9c5f890e3f7429db3354f7dc30c
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Library\Artifacts\35\358bf9c5f890e3f7429db3354f7dc30c
+    projectPath: Library\Artifacts\35\358bf9c5f890e3f7429db3354f7dc30c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CrazyCubeProject\Library\Artifacts\38\382209e6bc1970813dadd806dbcf19fb
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Library\Artifacts\38\382209e6bc1970813dadd806dbcf19fb
+    projectPath: Library\Artifacts\38\382209e6bc1970813dadd806dbcf19fb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CrazyCubeProject\Library\Artifacts\3c\3c3e61c127f4b610ed22837a08b8fa89
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Library\Artifacts\3c\3c3e61c127f4b610ed22837a08b8fa89
+    projectPath: Library\Artifacts\3c\3c3e61c127f4b610ed22837a08b8fa89
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CrazyCubeProject\Library\Artifacts\46\46cbc81b03e75f7fc0b2b804fdf0ea6f
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Library\Artifacts\46\46cbc81b03e75f7fc0b2b804fdf0ea6f
+    projectPath: Library\Artifacts\46\46cbc81b03e75f7fc0b2b804fdf0ea6f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CrazyCubeProject\Library\Artifacts\5d\5d6ec5bf8896e998ce388b3b7198e9fe
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Library\Artifacts\5d\5d6ec5bf8896e998ce388b3b7198e9fe
+    projectPath: Library\Artifacts\5d\5d6ec5bf8896e998ce388b3b7198e9fe
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CrazyCubeProject\Library\Artifacts\5d\5daaf29a33664aa98461368c4c3220a3
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Library\Artifacts\5d\5daaf29a33664aa98461368c4c3220a3
+    projectPath: Library\Artifacts\5d\5daaf29a33664aa98461368c4c3220a3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CrazyCubeProject\Library\Artifacts\7f\7f892f910b42a103c2a92d0268cc0f96
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Library\Artifacts\7f\7f892f910b42a103c2a92d0268cc0f96
+    projectPath: Library\Artifacts\7f\7f892f910b42a103c2a92d0268cc0f96
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CrazyCubeProject\Library\Artifacts\80\80e17e45224738ea8522aa4cbe392e60
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Library\Artifacts\80\80e17e45224738ea8522aa4cbe392e60
+    projectPath: Library\Artifacts\80\80e17e45224738ea8522aa4cbe392e60
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CrazyCubeProject\Library\Artifacts\86\869b94402b7243411a290cdea6c9d820
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Library\Artifacts\86\869b94402b7243411a290cdea6c9d820
+    projectPath: Library\Artifacts\86\869b94402b7243411a290cdea6c9d820
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CrazyCubeProject\Library\Artifacts\88\88f01c736cd510b65914cc9bcae34351
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Library\Artifacts\88\88f01c736cd510b65914cc9bcae34351
+    projectPath: Library\Artifacts\88\88f01c736cd510b65914cc9bcae34351
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CrazyCubeProject\Library\Artifacts\8c\8caab96ef4aaa9c315763a6c25f0fb13
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Library\Artifacts\8c\8caab96ef4aaa9c315763a6c25f0fb13
+    projectPath: Library\Artifacts\8c\8caab96ef4aaa9c315763a6c25f0fb13
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CrazyCubeProject\Library\Artifacts\b0\b0795d0b3911bc624694d03ea88504d8
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Library\Artifacts\b0\b0795d0b3911bc624694d03ea88504d8
+    projectPath: Library\Artifacts\b0\b0795d0b3911bc624694d03ea88504d8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CrazyCubeProject\Library\Artifacts\c3\c33a202647e1e6944b2b927c4a1176d9
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Library\Artifacts\c3\c33a202647e1e6944b2b927c4a1176d9
+    projectPath: Library\Artifacts\c3\c33a202647e1e6944b2b927c4a1176d9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CrazyCubeProject\Library\Artifacts\c4\c46c6e942127de2cb746d7f8c741e77e
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Library\Artifacts\c4\c46c6e942127de2cb746d7f8c741e77e
+    projectPath: Library\Artifacts\c4\c46c6e942127de2cb746d7f8c741e77e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CrazyCubeProject\Library\Artifacts\d3\d34f1c384031ee72fd790b01e90f959e
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Library\Artifacts\d3\d34f1c384031ee72fd790b01e90f959e
+    projectPath: Library\Artifacts\d3\d34f1c384031ee72fd790b01e90f959e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CrazyCubeProject\Library\Artifacts\d4\d4dbeeccca9a3655aa0f7cbdcc0f5840
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Library\Artifacts\d4\d4dbeeccca9a3655aa0f7cbdcc0f5840
+    projectPath: Library\Artifacts\d4\d4dbeeccca9a3655aa0f7cbdcc0f5840
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CrazyCubeProject\Library\Artifacts\e0\e033da6fd67d31f1a82167c3754ce172
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Library\Artifacts\e0\e033da6fd67d31f1a82167c3754ce172
+    projectPath: Library\Artifacts\e0\e033da6fd67d31f1a82167c3754ce172
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CrazyCubeProject\Library\Artifacts\e3\e34079649f1c5e562fe80bd6ed528ac2
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Library\Artifacts\e3\e34079649f1c5e562fe80bd6ed528ac2
+    projectPath: Library\Artifacts\e3\e34079649f1c5e562fe80bd6ed528ac2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CrazyCubeProject\Library\Artifacts\e5\e5de30cba45549d4883825af39dfa47d
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Library\Artifacts\e5\e5de30cba45549d4883825af39dfa47d
+    projectPath: Library\Artifacts\e5\e5de30cba45549d4883825af39dfa47d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CrazyCubeProject\Library\Artifacts\f3\f3c576fc32a7a83414dec1121facac16
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Library\Artifacts\f3\f3c576fc32a7a83414dec1121facac16
+    projectPath: Library\Artifacts\f3\f3c576fc32a7a83414dec1121facac16
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CrazyCubeProject\Library\Artifacts\f5\f553c5e1448a71107244553eb446c376
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Library\Artifacts\f5\f553c5e1448a71107244553eb446c376
+    projectPath: Library\Artifacts\f5\f553c5e1448a71107244553eb446c376
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CrazyCubeProject\Library\Artifacts\f5\f5c7e9c7f7d2845bd2e5a46edefc0bb3
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Library\Artifacts\f5\f5c7e9c7f7d2845bd2e5a46edefc0bb3
+    projectPath: Library\Artifacts\f5\f5c7e9c7f7d2845bd2e5a46edefc0bb3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CrazyCubeProject\Library\Artifacts\f7\f7c3dccb87fe3bce1546fba2b4a43e36
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Library\Artifacts\f7\f7c3dccb87fe3bce1546fba2b4a43e36
+    projectPath: Library\Artifacts\f7\f7c3dccb87fe3bce1546fba2b4a43e36
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CrazyCubeProject\Library\Bee\1900b0aE.dag
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Library\Bee\1900b0aE.dag
+    projectPath: Library\Bee\1900b0aE.dag
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: CrazyCubeProject\Library\Bee\1900b0aE.dag.json
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Library\Bee\1900b0aE.dag.json
+    projectPath: Library\Bee\1900b0aE.dag.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: CrazyCubeProject\Library\Bee\1900b0aE-inputdata.json
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Library\Bee\1900b0aE-inputdata.json
+    projectPath: Library\Bee\1900b0aE-inputdata.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: CrazyCubeProject\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.dll
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.dll
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: CrazyCubeProject\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.pdb
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.pdb
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: CrazyCubeProject\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.ref.dll
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.ref.dll
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.ref.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: CrazyCubeProject\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.rsp
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: CrazyCubeProject\Library\Bee\backend_profiler0.traceevents
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Library\Bee\backend_profiler0.traceevents
+    projectPath: Library\Bee\backend_profiler0.traceevents
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: CrazyCubeProject\Library\Bee\backend_profiler1.traceevents
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Library\Bee\backend_profiler1.traceevents
+    projectPath: Library\Bee\backend_profiler1.traceevents
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: CrazyCubeProject\Library\Bee\buildprogram0.traceevents
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Library\Bee\buildprogram0.traceevents
+    projectPath: Library\Bee\buildprogram0.traceevents
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: CrazyCubeProject\Library\Bee\fullprofile.json
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Library\Bee\fullprofile.json
+    projectPath: Library\Bee\fullprofile.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: CrazyCubeProject\Library\Bee\tundra.digestcache
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Library\Bee\tundra.digestcache
+    projectPath: Library\Bee\tundra.digestcache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: CrazyCubeProject\Library\Bee\tundra.log.json
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Library\Bee\tundra.log.json
+    projectPath: Library\Bee\tundra.log.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: CrazyCubeProject\Library\Bee\TundraBuildState.state
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Library\Bee\TundraBuildState.state
+    projectPath: Library\Bee\TundraBuildState.state
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: CrazyCubeProject\Library\Bee\TundraBuildState.state.map
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Library\Bee\TundraBuildState.state.map
+    projectPath: Library\Bee\TundraBuildState.state.map
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: CrazyCubeProject\Library\EditorInstance.json
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: CrazyCubeProject\Library\gfu\cache\branches.yaml
     fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
@@ -37,6 +379,12 @@ MonoBehaviour:
   - path: CrazyCubeProject\Library\gfu\cache\gitlocks.yaml
     fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: CrazyCubeProject\Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -52,9 +400,21 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: CrazyCubeProject\Library\gfu\cache\gituser.yaml
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: CrazyCubeProject\Library\gfu\cache\repoinfo.yaml
     fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: CrazyCubeProject\Library\InspectorExpandedItems.asset
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -64,9 +424,39 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: CrazyCubeProject\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: CrazyCubeProject\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: CrazyCubeProject\Library\Search\transactions.db
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Library\Search\transactions.db
+    projectPath: Library\Search\transactions.db
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: CrazyCubeProject\Library\SourceAssetDB
     fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: CrazyCubeProject\Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+    projectPath: Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: CrazyCubeProject\Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
+    projectPath: Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -76,9 +466,33 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: CrazyCubeProject\Logs\AssetImportWorker0-prev.log
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Logs\AssetImportWorker0-prev.log
+    projectPath: Logs\AssetImportWorker0-prev.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: CrazyCubeProject\Logs\AssetImportWorker1.log
     fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Logs\AssetImportWorker1.log
     projectPath: Logs\AssetImportWorker1.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: CrazyCubeProject\Logs\AssetImportWorker1-prev.log
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Logs\AssetImportWorker1-prev.log
+    projectPath: Logs\AssetImportWorker1-prev.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CrazyCubeProject\Logs\shadercompiler-AssetImportWorker0.log
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Logs\shadercompiler-AssetImportWorker0.log
+    projectPath: Logs\shadercompiler-AssetImportWorker0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: CrazyCubeProject\ProjectSettings\TagManager.asset
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\ProjectSettings\TagManager.asset
+    projectPath: ProjectSettings\TagManager.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -88,21 +502,21 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: CrazyCubeProject\Temp\FSTimeGet-8eed2fc05beb828439c5a46d64468b4a
-    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Temp\FSTimeGet-8eed2fc05beb828439c5a46d64468b4a
-    projectPath: Temp\FSTimeGet-8eed2fc05beb828439c5a46d64468b4a
+  - path: CrazyCubeProject\Temp\FSTimeGet-4933bc4538bb94b4e9b883d640c08d86
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Temp\FSTimeGet-4933bc4538bb94b4e9b883d640c08d86
+    projectPath: Temp\FSTimeGet-4933bc4538bb94b4e9b883d640c08d86
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: CrazyCubeProject\Temp\FSTimeGet-93246c7fb8369344887ddbbcbe5ca27d
-    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Temp\FSTimeGet-93246c7fb8369344887ddbbcbe5ca27d
-    projectPath: Temp\FSTimeGet-93246c7fb8369344887ddbbcbe5ca27d
+  - path: CrazyCubeProject\Temp\FSTimeGet-bb4a9f86f59a9154a8ac8d0e41915d34
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Temp\FSTimeGet-bb4a9f86f59a9154a8ac8d0e41915d34
+    projectPath: Temp\FSTimeGet-bb4a9f86f59a9154a8ac8d0e41915d34
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: CrazyCubeProject\Temp\FSTimeGet-969e099a62055fe48ba833696a1404cc
-    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Temp\FSTimeGet-969e099a62055fe48ba833696a1404cc
-    projectPath: Temp\FSTimeGet-969e099a62055fe48ba833696a1404cc
+  - path: CrazyCubeProject\Temp\FSTimeGet-f11421e9bde452d49984695f611a0250
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\Temp\FSTimeGet-f11421e9bde452d49984695f611a0250
+    projectPath: Temp\FSTimeGet-f11421e9bde452d49984695f611a0250
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -130,3 +544,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: CrazyCubeProject\UserSettings\Layouts\default-2021.dwlt
+    fullPath: C:\Unity\Unity 3D\CrazyCube\CrazyCubeProject\UserSettings\Layouts\default-2021.dwlt
+    projectPath: UserSettings\Layouts\default-2021.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
