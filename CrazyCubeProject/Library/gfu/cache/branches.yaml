@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2022-06-30T16:49:54.523-07:00
+  lastUpdatedAtString: 2022-06-30T18:54:42.861-07:00
   initializedAtString: 2022-06-29T11:35:25.984-07:00
   localBranches:
   - name: fallingcubes
@@ -22,6 +22,8 @@ MonoBehaviour:
     tracking: origin/master
   remoteBranches:
   - name: origin/HEAD
+    tracking: '[None]'
+  - name: origin/master
     tracking: '[None]'
   remotes:
   - name: origin
@@ -52,9 +54,15 @@ MonoBehaviour:
     subKeys:
     - Values:
       - HEAD
+      - master
     subKeyValues:
     - Values:
       - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/rd10/CrazyCube.git
+        trackingBranch: 
+      - name: master
         remote:
           name: origin
           url: https://github.com/rd10/CrazyCube.git
